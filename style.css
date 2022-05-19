@@ -42,41 +42,6 @@ nav {
   display: block;
 }
 
-.nav-item:hover .nav-dropdown {
-  display: block;
-}
-.nav-dropdown {
-  position: absolute;
-  display: none;
-  z-index: 999;
-  top: 58px;
-  left: 0px;
-  width: 200px;
-  padding-bottom: 10px;
-  border-radius: 3px;
-  background-color: #fff;
-  border: 1px solid #E8E8E8;
-}
-.nav-dropdown a {
-  display: block;
-  padding: 10px;
-  color: #314E52;
-  text-decoration: none;
-}
-.nav-dropdown a:hover {
-  background-color: #F6F6F6;
-}
-
-nav.biru {
-  background-color: #325288; /* warna bg navbar */
-  border-color: #325288; /* warna bg navbar */
-}
-nav.biru .nav-link:after {
-  background-color: #F2A154; /* warna border bawah navbar */
-}
-nav.biru .nav-link {
-  color: #F4EEE8; /* warna teks navbar */
-}
 .cover {
     position: relative;
     background-position: center;
