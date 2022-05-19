@@ -1,11 +1,11 @@
 .topnav {
-  background-color: blanchedalmond;
+  background-color: beige;
   overflow: hidden;
 }
 
 .topnav a {
   float: right;
-  color: bisque;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -16,7 +16,7 @@
   color: blanchedalmond;
 }
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: beige;
   color: white;
 }
 .cover {
