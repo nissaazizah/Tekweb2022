@@ -16,7 +16,7 @@
   color: blanchedalmond;
 }
 .topnav a.active {
-  background-color: beige;
+  background-color: rgb(80, 80, 67);
   color: white;
 }
 .cover {
@@ -45,7 +45,7 @@
   
 footer {
   font-family: 'sans-serif';
-  background-color: beige;
+  background-color:  rgb(99, 99, 78);
   color: beige;
   clear: both;
   position: relative;
