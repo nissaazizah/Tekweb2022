@@ -1,0 +1,25 @@
+[
+    {
+        "ID" : "0",
+        "Title" : "Kucing Angora",
+        "Gambar" : "https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/anggora.jpg",
+        "Content" : "Kucing Anggora adalah salah satu jenis kucing sangat populer di dunia...",
+        "markdown" : "article1.md"
+    },
+
+    {
+        "ID" : "1",
+        "Title" : "Kucing Persia",
+        "Gambar" : "https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/persia.jpg",
+        "Content" : "Kucing Persia termasuk ke dalam kucing ras tua...",
+        "markdown" : "article2.md"
+    },
+
+    {
+        "ID" : "2",
+        "Title" : "Kucing Maine Coon",
+        "Gambar" : "https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/maine%20coon.jpg",
+        "Content" : "Ras maine coon dipercayai berasal dari 6 ekor kucing yang dipelihara oleh...",
+        "markdown" : "article3.md"  
+    }
+]
