@@ -212,5 +212,5 @@ false   //if failure
 ## DESAIN DATABASE ##
 **Desain database untuk menyediakan API POINTS adalah sebagai berikut:**
 
-
+![design database](/assets/designdatabse.png)
 
