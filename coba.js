@@ -1,6 +1,6 @@
 let apiUrl = "https://myapi.nissazizah.my.id/index.php/";
 
-let app = Vue.createApp({
+Vue.createApp({
     data() {
       return {
         articles: {},
