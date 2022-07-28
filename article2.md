@@ -1,5 +1,5 @@
 # **Kucing Persia**
-![gambar kucing persia](persia.jpg)
+![gambar kucing persia](https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/persia.jpg)
 ## Sejarah Kucing Persia
 <br> Kucing Persia termasuk ke dalam kucing ras tua. Kucing ini berasal dari Mesopotamia, yang kemudian dikenal sebagai Persia dan saat ini berada di negara Iran. Bulu panjangnya adalah hasil mutasi alamiah, dan hal ini pula membuat seorang bangsawan Italia pada abad ke-17, Pietro Della Valle, membawa kucing ini ke Eropa sekitar tahun 1620-an dan menjadikannya sebagai kucing berbulu panjang pertama di Eropa. Dulu kucing ini mempunyai bulu abu-abu yang mengkilat, namun berkat pembiakan selektif, Kucing Persia sekarang dapat ditemukan dalam berbagai warna.
 

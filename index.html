@@ -65,10 +65,10 @@
         
         <div class="col-md-4" v-for="data in articles">
           <div class="card" style="background-color: #B7B7A4;">
-            <img class="card-img-top" :src="data.Gambar" alt="Card image cap">
+            <img class="card-img-top" :src="data.thumbnail" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">{{ data.Title }}</h5>
-              <p class="card-text">{{ data.Content }}</p>
+              <h5 class="card-title">{{ data.title }}</h5>
+              <p class="card-text">{{ data.content }}</p>
               <a :href="'./coba.html?markdown=' + data.markdown" class="btn btn-primary" style="background-color: #686763;">Click Here</a>
             </div>
           </div>

@@ -1,5 +1,5 @@
 # **Kucing Maine Coon**
-![gambar kucing maine coon](assets/maine%20coon.jpg)
+![gambar kucing maine coon](https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/maine%20coon.jpg)
 ## Sejarah Kucing Maine Coon
 
 <br>Ras maine coon dipercayai berasal dari 6 ekor kucing yang dipelihara oleh seorang Ratu Prancis bernama Maria Antonia. Ke-6 kucing tersebut kemudian dikirim ke Wiscasset, Maine ketika Maria akan melarikan diri dari Prancis pada saat terjadinya revolusi Prancis.
