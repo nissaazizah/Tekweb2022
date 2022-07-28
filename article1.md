@@ -1,5 +1,5 @@
 # **Kucing Anggora**
-![gambar kucing anggora](/assets/anggora.jpg)
+![gambar kucing anggora](https://raw.githubusercontent.com/nissaazizah/tekweb2022/main/assets/anggora.jpg)
 ## Sejarah Kucing Angora
 <br> Kucing Anggora adalah salah satu jenis kucing sangat populer di dunia, yang mempunyai lapisan bulu yang berbeda dengan kucing persia namun sama-sama memiliki bulu yang panjang sehingga banyak yang mengira kucing persia.</br>
 Kucing ini berasal dari Turki tepatnya di wilayah Ankara, dan dikenal dengan sebutan Angora. Lalu kucing anggora dibawa ke Inggris dan Pranciss pada tahun 1500-an, dan ada juga yang mengatakan bahwa bangsa viking lah yang membawanya dari Turki ke wilayah Eropa.
